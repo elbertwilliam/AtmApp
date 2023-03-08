@@ -1,0 +1,15 @@
+C:\Users\Elbert William\desktop\atm-app\bin\Debug\net7.0\atm-app.exe
+C:\Users\Elbert William\desktop\atm-app\bin\Debug\net7.0\atm-app.deps.json
+C:\Users\Elbert William\desktop\atm-app\bin\Debug\net7.0\atm-app.runtimeconfig.json
+C:\Users\Elbert William\desktop\atm-app\bin\Debug\net7.0\atm-app.dll
+C:\Users\Elbert William\desktop\atm-app\bin\Debug\net7.0\atm-app.pdb
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\atm-app.csproj.AssemblyReference.cache
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\atm-app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\atm-app.AssemblyInfoInputs.cache
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\atm-app.AssemblyInfo.cs
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\atm-app.csproj.CoreCompileInputs.cache
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\atm-app.dll
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\refint\atm-app.dll
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\atm-app.pdb
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\atm-app.genruntimeconfig.cache
+C:\Users\Elbert William\desktop\atm-app\obj\Debug\net7.0\ref\atm-app.dll
